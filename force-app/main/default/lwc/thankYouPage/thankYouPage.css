@@ -1,0 +1,18 @@
+
+.thank-you-container {
+    text-align: center;
+    padding: 20px;
+    height: 70vh;
+}
+
+.thank-you-heading {
+    font-size: 44px;
+    font-style: bold;
+    margin-top: 55px; 
+    color: #970505; 
+}
+
+.thank-you-message {
+    font-size: 25px;
+    color: #353333; 
+}
